@@ -50,7 +50,7 @@ ul {
     transform: rotateY(50deg) scaley(1.5);
 }
 
-.tree>li {
+.tree > li {
     position: relative;
     display: block;
 }
